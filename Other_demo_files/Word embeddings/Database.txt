@@ -1,0 +1,1 @@
+20_newsgroup and glove6b100d.txt is required for execution

@@ -1,0 +1,24 @@
+https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/
+
+Keras tutorial
+
+https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
+
+Randomness in data
+
+https://machinelearningmastery.com/randomness-in-machine-learning/
+
+
+https://github.com/keras-team/keras/tree/master/examples
+
+
+https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/
+
+
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+
+
+
+Tutorial on python, git and sql
+
+https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
